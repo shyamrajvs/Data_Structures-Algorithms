@@ -2,7 +2,7 @@
 
 //Mutating Methods
 
-/*1.push(element1, element2, ...)(https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Mutating%20Methods/push.js)
+/*1.push(element1, element2, ...)
 
     Adds one or more elements to the end of the array and returns the new length.
 

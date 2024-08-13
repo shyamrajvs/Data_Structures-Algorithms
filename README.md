@@ -10,6 +10,7 @@ This repository contains various data structures and algorithms implemented in J
 ## Table of Contents
 
 - [Array](https://github.com/shyamrajvs/Data_Structures-Algorithms/tree/main/Array)
+--[Introduction](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/arrayIntroduction.js)
 
 
 
