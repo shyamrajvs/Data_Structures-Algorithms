@@ -15,9 +15,23 @@ This repository contains various data structures and algorithms implemented in J
 
       - [Mutating Methods](https://github.com/shyamrajvs/Data_Structures-Algorithms/tree/main/Array/Mutating%20Methods)
 
-         1.[ Push](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Mutating%20Methods/push.js)
+         1.[ push](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Mutating%20Methods/push.js)
 
-         2.[ Pop](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Mutating%20Methods/pop.js)
+         2.[ pop](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Mutating%20Methods/pop.js)
+
+         3.[ shift](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Mutating%20Methods/shift.js)
+
+         4.[ unshift](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Mutating%20Methods/unshift.js)
+
+         5.[ splice](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Mutating%20Methods/splice.js)
+
+         6.[ fill](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Mutating%20Methods/fill.js)
+
+         7.[ reverse](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Mutating%20Methods/reverse.js)
+
+         8.[ sort](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Mutating%20Methods/sort.js)
+
+         9.[ copyWithin](Array/Mutating Methods/copyWithin.js)
 
       - [Non-Mutating Methods](https://github.com/shyamrajvs/Data_Structures-Algorithms/tree/main/Array/Non-Mutating%20Methods)
 
