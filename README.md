@@ -31,9 +31,17 @@ This repository contains various data structures and algorithms implemented in J
 
          8.[ sort](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Mutating%20Methods/sort.js)
 
-         9.[ copyWithin](Array/Mutating Methods/copyWithin.js)
+         9.[ copyWithin](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Mutating%20Methods/copyWithin.js)
 
       - [Non-Mutating Methods](https://github.com/shyamrajvs/Data_Structures-Algorithms/tree/main/Array/Non-Mutating%20Methods)
+
+         1.[ concat](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Non-Mutating%20Methods/indexOf.js)
+
+         2.[ jion](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Non-Mutating%20Methods/join.js)
+
+         3.[ slice](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Non-Mutating%20Methods/slice.js)
+
+         4.[ indexOf](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Non-Mutating%20Methods/indexOf.js)
 
 
 
