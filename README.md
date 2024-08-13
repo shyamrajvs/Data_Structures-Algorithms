@@ -15,33 +15,33 @@ This repository contains various data structures and algorithms implemented in J
 
       - [Mutating Methods](https://github.com/shyamrajvs/Data_Structures-Algorithms/tree/main/Array/Mutating%20Methods)
 
-            1.[ push](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Mutating%20Methods/push.js)
+         1.[ push](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Mutating%20Methods/push.js)
 
-            2.[ pop](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Mutating%20Methods/pop.js)
+         2.[ pop](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Mutating%20Methods/pop.js)
 
-            3.[ shift](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Mutating%20Methods/shift.js)
+         3.[ shift](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Mutating%20Methods/shift.js)
 
-            4.[ unshift](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Mutating%20Methods/unshift.js)
+         4.[ unshift](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Mutating%20Methods/unshift.js)
 
-            5.[ splice](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Mutating%20Methods/splice.js)
+         5.[ splice](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Mutating%20Methods/splice.js)
 
-            6.[ fill](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Mutating%20Methods/fill.js)
+         6.[ fill](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Mutating%20Methods/fill.js)
 
-            7.[ reverse](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Mutating%20Methods/reverse.js)
+         7.[ reverse](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Mutating%20Methods/reverse.js)
 
-            8.[ sort](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Mutating%20Methods/sort.js)
+         8.[ sort](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Mutating%20Methods/sort.js)
 
-            9.[ copyWithin](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Mutating%20Methods/copyWithin.js)
+         9.[ copyWithin](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Mutating%20Methods/copyWithin.js)
 
       - [Non-Mutating Methods](https://github.com/shyamrajvs/Data_Structures-Algorithms/tree/main/Array/Non-Mutating%20Methods)
 
-            1.[ concat](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Non-Mutating%20Methods/indexOf.js)
+         1.[ concat](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Non-Mutating%20Methods/indexOf.js)
 
-            2.[ jion](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Non-Mutating%20Methods/join.js)
+         2.[ jion](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Non-Mutating%20Methods/join.js)
 
-            3.[ slice](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Non-Mutating%20Methods/slice.js)
+         3.[ slice](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Non-Mutating%20Methods/slice.js)
 
-            4.[ indexOf](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Non-Mutating%20Methods/indexOf.js)
+         4.[ indexOf](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Non-Mutating%20Methods/indexOf.js)
 
 
 
