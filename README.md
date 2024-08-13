@@ -11,7 +11,13 @@ This repository contains various data structures and algorithms implemented in J
 
 - [Array](https://github.com/shyamrajvs/Data_Structures-Algorithms/tree/main/Array)
 
-   -[Introduction](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/arrayIntroduction.js)
+   - [Introduction](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/arrayIntroduction.js)
+
+      - [Mutating Methods](https://github.com/shyamrajvs/Data_Structures-Algorithms/tree/main/Array/Mutating%20Methods)
+
+         1. [push](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Mutating%20Methods/push.js)
+
+      - [Non-Mutating Methods](https://github.com/shyamrajvs/Data_Structures-Algorithms/tree/main/Array/Non-Mutating%20Methods)
 
 
 
