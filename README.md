@@ -37,7 +37,7 @@ This repository contains various data structures and algorithms implemented in J
 
          1.[ concat](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Non-Mutating%20Methods/indexOf.js)
 
-         2.[ jion](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Non-Mutating%20Methods/join.js)
+         2.[ join](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Non-Mutating%20Methods/join.js)
 
          3.[ slice](https://github.com/shyamrajvs/Data_Structures-Algorithms/blob/main/Array/Non-Mutating%20Methods/slice.js)
 

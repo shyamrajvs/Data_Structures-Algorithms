@@ -5,6 +5,7 @@
 /*Here’s a rough outline to get you started:
 
 1. Basic Data Structures
+
     Arrays
 
         Operations: push, pop, shift, unshift, slice, splice
@@ -16,6 +17,7 @@
         Key-value pairs
 
         Iteration: for...in, Object.keys(), Object.values()
+        
 2. Advanced Data Structures
 
     Linked Lists
